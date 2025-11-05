@@ -24,6 +24,8 @@ SAM031은 지대공 무기 체계의 <br>
 
 <br>
 
+<div align=center>
+
 ### 🛰️ Simulation Modules
 | 모의기 이름 (Module)       | 설명 (Description)                                  | Repository                          |
 | --- | --- | --- |
@@ -32,6 +34,7 @@ SAM031은 지대공 무기 체계의 <br>
 | 💻 **유도탄모의기**              | 유도탄을 모의하는 모의기                              | [SAM031-MSS](https://github.com/2025-2SW-Team1/SAM031-MSS) |
 | 💻 **발사대모의기**              | 유도탄을 발사하는 발사대를 모의하는 모의기            | [SAM031-LCRS](https://github.com/2025-2SW-Team1/SAM031-LCRS) |
 | 💻 **레이다모의기**              | 공중위협을 탐지하고 정보를 송수신하는 모의기          | [SAM031-MFRS](https://github.com/2025-2SW-Team1/SAM031-MFRS) |
+</div>
 
 <br>
 
@@ -47,7 +50,8 @@ SAM031은 지대공 무기 체계의 <br>
 - 개발 인원: 6명
 
 <br>
-
+<div align=center>
+  
 ### 🧑 Team member
 
 | **Github profile**    | **Name** | **Role**        |  **Organization**   | 
@@ -59,3 +63,4 @@ SAM031은 지대공 무기 체계의 <br>
 | <a href="https://github.com/ojae13-beep"><img src="https://github.com/ojae13-beep.png" width="80" /></a>| 최원재 | MFRS | 레이다연구소.레이다수출개발단.1팀 |
 | <a href="https://github.com/hanjjong"><img src="https://github.com/hanjjong.png" width="80" /></a>| 한종민 | MSS | 미사일시스템탐색기연구소.2팀 |
 
+</div>
